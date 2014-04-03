@@ -4,7 +4,7 @@
 
 Assume you have rails and a postgres server installed. 
 
-On the command line, typ
+On the command line, type
      
     $bundle
     $rake db:create
